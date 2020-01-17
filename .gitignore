@@ -1,0 +1,4 @@
+/backend/app/__pycache__/*.pyc
+/backend/app/open_api/__pycache__/*.pyc
+/backend/venv
+/.vscode/settings.json
